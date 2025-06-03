@@ -20,13 +20,13 @@ Excel (for initial data handling)
 
 
 🗂 Data Fields Collected
-Location
-Brand
-Price
-Fuel Type
-Owner
-Total Run (km)
-Features
+Location,
+Brand,
+Price,
+Fuel Type,
+Owner,
+Total Run (km),
+Features,
 EMI
 
 
